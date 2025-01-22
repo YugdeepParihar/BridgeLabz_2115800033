@@ -1,17 +1,17 @@
 using System;
 
-class WeightConverter
+class WeightConversion
 {
     static void Main(string[] args)
     {
-        // Prompt user to enter weight in pounds
-        Console.WriteLine("Enter the weight (in pounds):");
-        double weightInPounds = double.Parse(Console.ReadLine());
+        // Taking user input for weight in pounds
+        Console.Write("Enter the weight in pounds: ");
+        double weightInPounds = Convert.ToDouble(Console.ReadLine());
 
-        // Convert weight to kilograms
-        double weightInKg = weightInPounds / 2.2;
+        // Converting pounds to kilograms (1 pound = 2.2 kg)
+        double weightInKilograms = weightInPounds * 2.2;
 
-        // Display the results
-        Console.WriteLine($"The weight of the person in pounds is {weightInPounds} and in kilograms is {weightInKg:F2}");
+        // Outputting the result
+        Console.WriteLine($"\nThe weight of the person is {weightInPounds} pounds and {weightInKilograms} kilograms.");
     }
 }

@@ -4,15 +4,19 @@ class SwapNumbers
 {
     static void Main(string[] args)
     {
-        // Prompt user to enter two numbers
-        Console.WriteLine("Enter two numbers:");
-        int number1 = int.Parse(Console.ReadLine());
-        int number2 = int.Parse(Console.ReadLine());
+        // Taking user input for two numbers
+        Console.Write("Enter the first number: ");
+        int number1 = Convert.ToInt32(Console.ReadLine());
 
-        // Swap the numbers using tuple
-        (number1, number2) = (number2, number1);
+        Console.Write("Enter the second number: ");
+        int number2 = Convert.ToInt32(Console.ReadLine());
 
-        // Display the swapped numbers
-        Console.WriteLine($"The swapped numbers are {number1} and {number2}");
+        // Swapping the numbers
+        int temp = number1;
+        number1 = number2;
+        number2 = temp;
+
+        // Outputting the swapped result
+        Console.WriteLine($"\nThe swapped numbers are {number1} and {number2}.");
     }
 }

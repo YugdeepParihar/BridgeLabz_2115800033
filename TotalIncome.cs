@@ -4,16 +4,17 @@ class TotalIncome
 {
     static void Main(string[] args)
     {
-        // Prompt user to enter salary and bonus
-        Console.WriteLine("Enter salary:");
-        double salary = double.Parse(Console.ReadLine());
-        Console.WriteLine("Enter bonus:");
-        double bonus = double.Parse(Console.ReadLine());
+        // Taking user input for salary and bonus
+        Console.Write("Enter the salary: ");
+        double salary = Convert.ToDouble(Console.ReadLine());
 
-        // Calculate total income
+        Console.Write("Enter the bonus: ");
+        double bonus = Convert.ToDouble(Console.ReadLine());
+
+        // Calculating total income
         double totalIncome = salary + bonus;
 
-        // Display the result
-        Console.WriteLine($"The salary is INR {salary} and bonus is INR {bonus}. Hence Total Income is INR {totalIncome}");
+        // Outputting the result
+        Console.WriteLine($"\nThe salary is INR {salary} and bonus is INR {bonus}. Hence Total Income is INR {totalIncome}.");
     }
 }

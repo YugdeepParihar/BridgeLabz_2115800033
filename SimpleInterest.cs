@@ -4,20 +4,20 @@ class SimpleInterest
 {
     static void Main(string[] args)
     {
-        // Prompt user for Principal, Rate, and Time
-        Console.WriteLine("Enter the Principal amount:");
-        double principal = double.Parse(Console.ReadLine());
+        // Taking user inputs for principal, rate, and time
+        Console.Write("Enter the principal amount: ");
+        double principal = Convert.ToDouble(Console.ReadLine());
 
-        Console.WriteLine("Enter the Rate of Interest (in %):");
-        double rate = double.Parse(Console.ReadLine());
+        Console.Write("Enter the rate of interest: ");
+        double rate = Convert.ToDouble(Console.ReadLine());
 
-        Console.WriteLine("Enter the Time (in years):");
-        double time = double.Parse(Console.ReadLine());
+        Console.Write("Enter the time period (in years): ");
+        double time = Convert.ToDouble(Console.ReadLine());
 
-        // Calculate Simple Interest
+        // Calculating the simple interest
         double simpleInterest = (principal * rate * time) / 100;
 
-        // Display the result
-        Console.WriteLine($"The Simple Interest is {simpleInterest} for Principal {principal}, Rate of Interest {rate}, and Time {time}");
+        // Outputting the result
+        Console.WriteLine($"\nThe simple interest on a principal of {principal} at a rate of {rate}% for {time} years is {simpleInterest}.");
     }
 }

@@ -1,34 +1,36 @@
 using System;
 
-class TravelProgram
+class TripDetails
 {
     static void Main(string[] args)
     {
-        // Prompt user for traveler details
-        Console.WriteLine("Enter your name:");
+        // Taking user input for trip details
+        Console.Write("Enter your name: ");
         string name = Console.ReadLine();
 
-        // Prompt user for travel details
-        Console.WriteLine("Enter From City:");
+        Console.Write("Enter the from city: ");
         string fromCity = Console.ReadLine();
-        Console.WriteLine("Enter Via City:");
+
+        Console.Write("Enter the via city: ");
         string viaCity = Console.ReadLine();
-        Console.WriteLine("Enter To City:");
+
+        Console.Write("Enter the to city: ");
         string toCity = Console.ReadLine();
 
-        // Prompt user for distances and time
-        Console.WriteLine("Enter distance from From City to Via City (in miles):");
-        double fromToVia = double.Parse(Console.ReadLine());
-        Console.WriteLine("Enter distance from Via City to Final City (in miles):");
-        double viaToFinalCity = double.Parse(Console.ReadLine());
-        Console.WriteLine("Enter total time taken for the journey (in hours):");
-        double timeTaken = double.Parse(Console.ReadLine());
+        Console.Write("Enter the distance from 'from' to 'via' city in miles: ");
+        double fromToVia = Convert.ToDouble(Console.ReadLine());
 
-        // Calculate total distance and average speed
+        Console.Write("Enter the distance from 'via' to 'to' city in miles: ");
+        double viaToFinalCity = Convert.ToDouble(Console.ReadLine());
+
+        Console.Write("Enter the time taken for the journey (in hours): ");
+        double timeTaken = Convert.ToDouble(Console.ReadLine());
+
+        // Calculating the total distance and average speed
         double totalDistance = fromToVia + viaToFinalCity;
         double averageSpeed = totalDistance / timeTaken;
 
-        // Display the travel summary
-        Console.WriteLine($"The traveler {name} started from {fromCity}, traveled via {viaCity}, and reached {toCity}. Total distance: {totalDistance} miles. Average speed: {averageSpeed} mph.");
+        // Outputting the trip details
+        Console.WriteLine($"\nThe results of the trip are: {name}, {fromCity} to {viaCity} to {toCity}, Total Distance: {totalDistance} miles, Average Speed: {averageSpeed} miles/hour.");
     }
 }

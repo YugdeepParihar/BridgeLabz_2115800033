@@ -4,14 +4,14 @@ class FahrenheitToCelsius
 {
     static void Main(string[] args)
     {
-        // Prompt user to enter temperature in Fahrenheit
-        Console.WriteLine("Enter temperature in Fahrenheit:");
-        double fahrenheit = double.Parse(Console.ReadLine());
+        // Taking user input for temperature in Fahrenheit
+        Console.Write("Enter the temperature in Fahrenheit: ");
+        double fahrenheit = Convert.ToDouble(Console.ReadLine());
 
-        // Convert Fahrenheit to Celsius
+        // Converting Fahrenheit to Celsius
         double celsius = (fahrenheit - 32) * 5 / 9;
 
-        // Display the result
-        Console.WriteLine($"{fahrenheit} Fahrenheit is {celsius} Celsius");
+        // Outputting the result
+        Console.WriteLine($"\nThe {fahrenheit} Fahrenheit is {celsius} Celsius.");
     }
 }

@@ -4,22 +4,26 @@ class AthleteRounds
 {
     static void Main(string[] args)
     {
-        // Prompt user to enter the sides of the triangular park
-        Console.WriteLine("Enter the lengths of the three sides of the triangular park (in meters):");
-        double side1 = double.Parse(Console.ReadLine());
-        double side2 = double.Parse(Console.ReadLine());
-        double side3 = double.Parse(Console.ReadLine());
+        // Taking user inputs for the sides of the triangular park
+        Console.Write("Enter the first side of the triangular park (in meters): ");
+        double side1 = Convert.ToDouble(Console.ReadLine());
 
-        // Calculate the perimeter of the park
+        Console.Write("Enter the second side of the triangular park (in meters): ");
+        double side2 = Convert.ToDouble(Console.ReadLine());
+
+        Console.Write("Enter the third side of the triangular park (in meters): ");
+        double side3 = Convert.ToDouble(Console.ReadLine());
+
+        // Calculating the perimeter of the triangular park
         double perimeter = side1 + side2 + side3;
 
-        // Define total distance the athlete needs to run (5 km in meters)
-        double totalDistance = 5000;
+        // Converting 5 km to meters (1 km = 1000 meters)
+        double totalDistance = 5 * 1000;
 
-        // Calculate the number of rounds required
-        int rounds = (int)Math.Ceiling(totalDistance / perimeter);
+        // Calculating the total number of rounds needed
+        double rounds = totalDistance / perimeter;
 
-        // Display the number of rounds
-        Console.WriteLine($"The athlete must complete {rounds} rounds to cover 5 km.");
+        // Outputting the result
+        Console.WriteLine($"\nThe total number of rounds the athlete will run is {Math.Ceiling(rounds)} to complete 5 km.");
     }
 }

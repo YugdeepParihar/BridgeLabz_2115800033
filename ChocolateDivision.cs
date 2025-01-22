@@ -1,20 +1,21 @@
 using System;
 
-class DistributeChocolates
+class ChocolateDivision
 {
     static void Main(string[] args)
     {
-        // Prompt user for number of chocolates and children
-        Console.WriteLine("Enter the number of chocolates:");
-        int numberOfChocolates = int.Parse(Console.ReadLine());
-        Console.WriteLine("Enter the number of children:");
-        int numberOfChildren = int.Parse(Console.ReadLine());
+        // Taking user inputs for the number of chocolates and number of children
+        Console.Write("Enter the number of chocolates: ");
+        int numberOfChocolates = Convert.ToInt32(Console.ReadLine());
 
-        // Calculate chocolates per child and remaining chocolates
+        Console.Write("Enter the number of children: ");
+        int numberOfChildren = Convert.ToInt32(Console.ReadLine());
+
+        // Calculating the number of chocolates each child gets and the remaining chocolates
         int chocolatesPerChild = numberOfChocolates / numberOfChildren;
         int remainingChocolates = numberOfChocolates % numberOfChildren;
 
-        // Display results
-        Console.WriteLine($"Each child gets {chocolatesPerChild} chocolates. Remaining chocolates: {remainingChocolates}");
+        // Outputting the result
+        Console.WriteLine($"\nThe number of chocolates each child gets is {chocolatesPerChild} and the number of remaining chocolates is {remainingChocolates}.");
     }
 }
