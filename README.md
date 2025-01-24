@@ -8,4 +8,7 @@
 
 22 January 2025 - 12 LEVEL2 practice problem solved , Studied static keyword uses , operators , typeconversion.
 
-23 january 2025 - 36 LEVEL 1,2,3 control FLow problem solved , Studied control flow in C#. 
+23 january 2025 - 36 LEVEL 1,2,3 control Flow problem solved , Studied control flow in C#. 
+
+24 january 2025 - 5 LEVEL 1 arrays practice problem solved  , Studied about 1D arrays and its working.
+
