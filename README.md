@@ -12,3 +12,5 @@
 
 24 january 2025 - 5 LEVEL 1 arrays practice problem solved  , Studied about 1D arrays and its working.
 
+25 january 2025 - 10 LEVEL 2 2D arrays practice probem solved , Studied about 2D arrays and its basic concepts and done some programming practice.
+
