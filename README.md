@@ -19,3 +19,7 @@
 27 january 2025 - 12 LEVEL 2 method programming practice problems solved and theory concept revised
 
 28 january 2025 - 25 LEVEL 1 , 3 method practice problem solved and topics studied recursion. 
+
+29 january 2025 - Inbuilt functions on TIME and DATE & other extra fuctions practice problem ,
+String practice problem solved.
+
