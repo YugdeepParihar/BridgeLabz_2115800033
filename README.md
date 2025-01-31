@@ -24,3 +24,5 @@
 String practice problem solved.
 
 30 january 2025 - Visual Studio installed and  connected with github and learned inbuilt functions of string . 
+
+31 january 2025 - concepts of oops are studied and 3 assignment problems solved based on oops concepts
