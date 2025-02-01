@@ -1,0 +1,3 @@
+1. oops concepts learned
+2. static keyword , methods concept revised 
+3. namespace concept studied
