@@ -26,3 +26,8 @@ String practice problem solved.
 30 january 2025 - Visual Studio installed and  connected with github and learned inbuilt functions of string . 
 
 31 january 2025 - concepts of oops are studied and 3 assignment problems solved based on oops concepts
+
+1 february 2025 - concept of oops revised along with static methods
+
+2 febraury 2025 - Constructor , Instance vs. Class Variables and Methods problems solved and this keyword topic learned.
+
