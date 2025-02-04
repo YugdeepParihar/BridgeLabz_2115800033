@@ -29,5 +29,8 @@ String practice problem solved.
 
 1 february 2025 - concept of oops revised along with static methods
 
-2 febraury 2025 - Constructor , Instance vs. Class Variables and Methods problems solved and this keyword topic learned.
+2 february 2025 - Constructor , Instance vs. Class Variables and Methods problems solved and this keyword topic learned.
 
+3 february 2025 -  this, sealed, static key words and is operator studied and done practice problems.
+
+4 february 2025 - revision of  abstarction , encapsulation , interface done
