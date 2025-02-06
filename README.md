@@ -34,3 +34,7 @@ String practice problem solved.
 3 february 2025 -  this, sealed, static key words and is operator studied and done practice problems.
 
 4 february 2025 - revision of  abstarction , encapsulation , interface done
+
+5 february 2025 - Opps Object Oriented Design Principles  practice problem solved 
+
+6 february 2025 - Class diagram topic revised and questions based on it solved .
