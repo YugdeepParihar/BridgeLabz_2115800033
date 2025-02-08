@@ -31,10 +31,12 @@ String practice problem solved.
 
 2 february 2025 - Constructor , Instance vs. Class Variables and Methods problems solved and this keyword topic learned.
 
-3 february 2025 -  this, sealed, static key words and is operator studied and done practice problems.
+3 february 2025 - This, sealed, static key words and is operator studied and done practice problems.
 
 4 february 2025 - revision of  abstarction , encapsulation , interface done
 
 5 february 2025 - Opps Object Oriented Design Principles  practice problem solved 
 
 6 february 2025 - Class diagram topic revised and questions based on it solved .
+
+8 february 2025 - 11 problems based on inheritance and its types are solved.
