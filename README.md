@@ -40,3 +40,5 @@ String practice problem solved.
 6 february 2025 - Class diagram topic revised and questions based on it solved .
 
 8 february 2025 - 11 problems based on inheritance and its types are solved.
+
+10 february 2025 - Submission of Encapsulation, Polymorphism, Interface and Abstract Class problems solved 
