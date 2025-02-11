@@ -42,3 +42,5 @@ String practice problem solved.
 8 february 2025 - 11 problems based on inheritance and its types are solved.
 
 10 february 2025 - Submission of Encapsulation, Polymorphism, Interface and Abstract Class problems solved 
+
+11 february 2025 - 6 problems based on LinkedList and its type i.e. Singly , Doubly , Circular linked list are done.  
