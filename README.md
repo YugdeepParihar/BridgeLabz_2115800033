@@ -44,3 +44,7 @@ String practice problem solved.
 10 february 2025 - Submission of Encapsulation, Polymorphism, Interface and Abstract Class problems solved 
 
 11 february 2025 - 6 problems based on LinkedList and its type i.e. Singly , Doubly , Circular linked list are done.  
+
+12 february 2025 - 3 problems based on LinkedList and its type  i.e. Singly , Doubly , Circular LinkedList are solved"
+
+13 february 2025 - 10 problems based on Stack , Queue , Dictonary and HashSet are solved  
