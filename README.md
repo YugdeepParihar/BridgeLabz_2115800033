@@ -48,3 +48,6 @@ String practice problem solved.
 12 february 2025 - 3 problems based on LinkedList and its type  i.e. Singly , Doubly , Circular LinkedList are solved"
 
 13 february 2025 - 10 problems based on Stack , Queue , Dictonary and HashSet are solved  
+
+14 february 2025 - 7 problems based on Sorting Algorithms completed 
+
