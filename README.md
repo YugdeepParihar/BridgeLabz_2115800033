@@ -54,3 +54,6 @@ String practice problem solved.
 15 february 2025 - 16 problems based on StringBuffer , StringBuilder , StreamReader,StreamWriter , Binary Search , Linear Search has been solved
 
 17 february 2025 - Submission of Algorithm's Runtime Analysis & Big-O Notation.
+
+18 february 2025 - 5 Practice problems based on generics solved
+
