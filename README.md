@@ -55,5 +55,6 @@ String practice problem solved.
 
 17 february 2025 - Submission of Algorithm's Runtime Analysis & Big-O Notation.
 
-18 february 2025 - 5 Practice problems based on generics solved
+18 february 2025 - 5 Practice problems based on generics solved.
 
+19 february 2025 - 19 Practice Problems based on Collections are solved.
