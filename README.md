@@ -67,4 +67,6 @@ String practice problem solved.
 
 24 february 2025 - 27 Practice Problems based on Annotation and Reflection solved
 
-25 february 2025 - 15 Practice Problesm based on CSV File data handling Solved
+25 february 2025 - 15 Practice Problems based on CSV File data handling Solved
+
+26 february 2025 - 15 Practice Problems based on JSON Assignment solved 
