@@ -70,3 +70,8 @@ String practice problem solved.
 25 february 2025 - 15 Practice Problems based on CSV File data handling Solved
 
 26 february 2025 - 15 Practice Problems based on JSON Assignment solved 
+
+27 february 2025 - Basic of asp.net studied along with userregistration basic project done.
+
+28 february 2025 - UserRegistration WebApi Checked using PostMan with 4 input fields and studies about layers i.e model , Business , Repository .  
+
