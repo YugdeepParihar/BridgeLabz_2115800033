@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yugde\\Desktop\\HelloApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43056C3C-F6A1-4AB4-AAF0-C55D492162CF}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\yugde\\desktop\\helloapp\\businesslayer\\service\\userservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43056C3C-F6A1-4AB4-AAF0-C55D492162CF}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\service\\userservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8516C96-64FF-4FA8-A87D-A9C6F16E45BB}|ModelLayer\\ModelLayer.csproj|c:\\users\\yugde\\desktop\\helloapp\\modellayer\\dto\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8516C96-64FF-4FA8-A87D-A9C6F16E45BB}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\dto\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E93444-C6EC-402A-89E7-0AC301ACD78E}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\yugde\\desktop\\helloapp\\repositorylayer\\service\\userregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E93444-C6EC-402A-89E7-0AC301ACD78E}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\service\\userregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5386CC30-EB47-4065-88FA-BE9977AFDD4D}|HelloApp\\HelloApp.csproj|c:\\users\\yugde\\desktop\\helloapp\\helloapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5386CC30-EB47-4065-88FA-BE9977AFDD4D}|HelloApp\\HelloApp.csproj|solutionrelative:helloapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5386CC30-EB47-4065-88FA-BE9977AFDD4D}|HelloApp\\HelloApp.csproj|c:\\users\\yugde\\desktop\\helloapp\\helloapp\\controllers\\userregistrationsystemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5386CC30-EB47-4065-88FA-BE9977AFDD4D}|HelloApp\\HelloApp.csproj|solutionrelative:helloapp\\controllers\\userregistrationsystemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5386CC30-EB47-4065-88FA-BE9977AFDD4D}|HelloApp\\HelloApp.csproj|c:\\users\\yugde\\desktop\\helloapp\\helloapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5386CC30-EB47-4065-88FA-BE9977AFDD4D}|HelloApp\\HelloApp.csproj|solutionrelative:helloapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E93444-C6EC-402A-89E7-0AC301ACD78E}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\yugde\\desktop\\helloapp\\repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38E93444-C6EC-402A-89E7-0AC301ACD78E}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5386CC30-EB47-4065-88FA-BE9977AFDD4D}|HelloApp\\HelloApp.csproj|c:\\users\\yugde\\desktop\\helloapp\\helloapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5386CC30-EB47-4065-88FA-BE9977AFDD4D}|HelloApp\\HelloApp.csproj|solutionrelative:helloapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8516C96-64FF-4FA8-A87D-A9C6F16E45BB}|ModelLayer\\ModelLayer.csproj|c:\\users\\yugde\\desktop\\helloapp\\modellayer\\dto\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8516C96-64FF-4FA8-A87D-A9C6F16E45BB}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\dto\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8516C96-64FF-4FA8-A87D-A9C6F16E45BB}|ModelLayer\\ModelLayer.csproj|c:\\users\\yugde\\desktop\\helloapp\\modellayer\\modellayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E8516C96-64FF-4FA8-A87D-A9C6F16E45BB}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\modellayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRegistrationSystemController.cs",
+              "DocumentMoniker": "C:\\Users\\yugde\\Desktop\\HelloApp\\HelloApp\\Controllers\\UserRegistrationSystemController.cs",
+              "RelativeDocumentMoniker": "HelloApp\\Controllers\\UserRegistrationSystemController.cs",
+              "ToolTip": "C:\\Users\\yugde\\Desktop\\HelloApp\\HelloApp\\Controllers\\UserRegistrationSystemController.cs",
+              "RelativeToolTip": "HelloApp\\Controllers\\UserRegistrationSystemController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T11:17:29.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserServiceBL.cs",
+              "DocumentMoniker": "C:\\Users\\yugde\\Desktop\\HelloApp\\BusinessLayer\\Service\\UserServiceBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Service\\UserServiceBL.cs",
+              "ToolTip": "C:\\Users\\yugde\\Desktop\\HelloApp\\BusinessLayer\\Service\\UserServiceBL.cs",
+              "RelativeToolTip": "BusinessLayer\\Service\\UserServiceBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T11:21:05.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRegistrationRL.cs",
+              "DocumentMoniker": "C:\\Users\\yugde\\Desktop\\HelloApp\\RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "ToolTip": "C:\\Users\\yugde\\Desktop\\HelloApp\\RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "RelativeToolTip": "RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T11:23:17.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\yugde\\Desktop\\HelloApp\\HelloApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HelloApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\yugde\\Desktop\\HelloApp\\HelloApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HelloApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T14:59:12.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yugde\\Desktop\\HelloApp\\HelloApp\\appsettings.json",
+              "RelativeDocumentMoniker": "HelloApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\yugde\\Desktop\\HelloApp\\HelloApp\\appsettings.json",
+              "RelativeToolTip": "HelloApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T14:40:30.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\yugde\\Desktop\\HelloApp\\ModelLayer\\DTO\\User.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\DTO\\User.cs",
+              "ToolTip": "C:\\Users\\yugde\\Desktop\\HelloApp\\ModelLayer\\DTO\\User.cs",
+              "RelativeToolTip": "ModelLayer\\DTO\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T11:23:58.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yugde\\Desktop\\HelloApp\\HelloApp\\Program.cs",
+              "RelativeDocumentMoniker": "HelloApp\\Program.cs",
+              "ToolTip": "C:\\Users\\yugde\\Desktop\\HelloApp\\HelloApp\\Program.cs",
+              "RelativeToolTip": "HelloApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T11:18:50.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\yugde\\Desktop\\HelloApp\\ModelLayer\\DTO\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\DTO\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\yugde\\Desktop\\HelloApp\\ModelLayer\\DTO\\ResponseModel.cs",
+              "RelativeToolTip": "ModelLayer\\DTO\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T11:24:28.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoryLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\yugde\\Desktop\\HelloApp\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeDocumentMoniker": "RepositoryLayer\\RepositoryLayer.csproj",
+              "ToolTip": "C:\\Users\\yugde\\Desktop\\HelloApp\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeToolTip": "RepositoryLayer\\RepositoryLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T11:22:53.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModelLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\yugde\\Desktop\\HelloApp\\ModelLayer\\ModelLayer.csproj",
+              "RelativeDocumentMoniker": "ModelLayer\\ModelLayer.csproj",
+              "ToolTip": "C:\\Users\\yugde\\Desktop\\HelloApp\\ModelLayer\\ModelLayer.csproj",
+              "RelativeToolTip": "ModelLayer\\ModelLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T11:23:35.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
