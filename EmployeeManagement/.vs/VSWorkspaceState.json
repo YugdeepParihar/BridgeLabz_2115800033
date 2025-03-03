@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BusinessLayer\\Interface",
+    "\\BusinessLayer\\obj",
+    "\\BusinessLayer\\Service",
+    "\\EmployeeManagement\\Controllers",
+    "\\ModelLayer\\obj",
+    "\\RepositoryLayer\\Context",
+    "\\RepositoryLayer\\DTO",
+    "\\RepositoryLayer\\Interface"
+  ],
+  "PreviewInSolutionExplorer": false
+}

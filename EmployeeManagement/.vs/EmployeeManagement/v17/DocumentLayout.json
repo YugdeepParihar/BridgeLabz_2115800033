@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yugde\\Desktop\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yugde\\Desktop\\EmployeeManagement\\EmployeeManagement\\Controllers\\EmployeeManagementController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement\\Controllers\\EmployeeManagementController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yugde\\Desktop\\EmployeeManagement\\RepositoryLayer\\Interface\\IAddEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RepositoryLayer\\Interface\\IAddEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yugde\\Desktop\\EmployeeManagement\\RepositoryLayer\\DTO\\EmployeeRequest .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RepositoryLayer\\DTO\\EmployeeRequest .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yugde\\Desktop\\EmployeeManagement\\RepositoryLayer\\Context\\EmployeeContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RepositoryLayer\\Context\\EmployeeContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yugde\\Desktop\\EmployeeManagement\\ModelLayer\\ModelLayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ModelLayer\\ModelLayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yugde\\Desktop\\EmployeeManagement\\BusinessLayer\\Interface\\IEmployeeBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLayer\\Interface\\IEmployeeBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yugde\\Desktop\\EmployeeManagement\\CommonLayer\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CommonLayer\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yugde\\Desktop\\EmployeeManagement\\EmployeeManagement\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yugde\\Desktop\\EmployeeManagement\\EmployeeManagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yugde\\Desktop\\EmployeeManagement\\EmployeeManagement\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yugde\\Desktop\\EmployeeManagement\\EmployeeManagement\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAddEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\yugde\\Desktop\\EmployeeManagement\\RepositoryLayer\\Interface\\IAddEmployee.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Interface\\IAddEmployee.cs",
+              "ToolTip": "C:\\Users\\yugde\\Desktop\\EmployeeManagement\\RepositoryLayer\\Interface\\IAddEmployee.cs",
+              "RelativeToolTip": "RepositoryLayer\\Interface\\IAddEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:59:46.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\yugde\\Desktop\\EmployeeManagement\\RepositoryLayer\\Context\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Context\\EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\yugde\\Desktop\\EmployeeManagement\\RepositoryLayer\\Context\\EmployeeContext.cs",
+              "RelativeToolTip": "RepositoryLayer\\Context\\EmployeeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:58:45.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRequest .cs",
+              "DocumentMoniker": "C:\\Users\\yugde\\Desktop\\EmployeeManagement\\RepositoryLayer\\DTO\\EmployeeRequest .cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\DTO\\EmployeeRequest .cs",
+              "ToolTip": "C:\\Users\\yugde\\Desktop\\EmployeeManagement\\RepositoryLayer\\DTO\\EmployeeRequest .cs",
+              "RelativeToolTip": "RepositoryLayer\\DTO\\EmployeeRequest .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:58:38.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\yugde\\Desktop\\EmployeeManagement\\EmployeeManagement\\Controllers\\EmployeeManagementController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\EmployeeManagementController.cs",
+              "ToolTip": "C:\\Users\\yugde\\Desktop\\EmployeeManagement\\EmployeeManagement\\Controllers\\EmployeeManagementController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\EmployeeManagementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:54:17.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModelLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\yugde\\Desktop\\EmployeeManagement\\ModelLayer\\ModelLayer.csproj",
+              "RelativeDocumentMoniker": "ModelLayer\\ModelLayer.csproj",
+              "ToolTip": "C:\\Users\\yugde\\Desktop\\EmployeeManagement\\ModelLayer\\ModelLayer.csproj",
+              "RelativeToolTip": "ModelLayer\\ModelLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T17:58:25.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeBL.cs",
+              "DocumentMoniker": "C:\\Users\\yugde\\Desktop\\EmployeeManagement\\BusinessLayer\\Interface\\IEmployeeBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Interface\\IEmployeeBL.cs",
+              "ToolTip": "C:\\Users\\yugde\\Desktop\\EmployeeManagement\\BusinessLayer\\Interface\\IEmployeeBL.cs",
+              "RelativeToolTip": "BusinessLayer\\Interface\\IEmployeeBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:57:44.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yugde\\Desktop\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\yugde\\Desktop\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:55:48.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\yugde\\Desktop\\EmployeeManagement\\CommonLayer\\Employee.cs",
+              "RelativeDocumentMoniker": "CommonLayer\\Employee.cs",
+              "ToolTip": "C:\\Users\\yugde\\Desktop\\EmployeeManagement\\CommonLayer\\Employee.cs*",
+              "RelativeToolTip": "CommonLayer\\Employee.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:54:05.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yugde\\Desktop\\EmployeeManagement\\EmployeeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\yugde\\Desktop\\EmployeeManagement\\EmployeeManagement\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T17:53:26.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\yugde\\Desktop\\EmployeeManagement\\EmployeeManagement\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EmployeeManagement\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\yugde\\Desktop\\EmployeeManagement\\EmployeeManagement\\appsettings.Development.json",
+              "RelativeToolTip": "EmployeeManagement\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T17:53:25.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\yugde\\Desktop\\EmployeeManagement\\EmployeeManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\yugde\\Desktop\\EmployeeManagement\\EmployeeManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeManagement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T17:53:16.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
